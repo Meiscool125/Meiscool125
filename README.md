@@ -15,11 +15,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark" alt="meiscool125" /></p>
-
-
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&layout=compact&theme=vision-friendly-dark)](https://github.com/Meiscool125/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark" alt="meiscool125" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&layout=compact&theme=vision-friendly-dark&hide=TeX)](https://github.com/Meiscool125/github-readme-stats)
 

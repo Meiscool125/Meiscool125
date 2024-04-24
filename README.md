@@ -22,7 +22,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark&hide=issues,contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="meiscool125" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark&hide=issues,prs" alt="meiscool125" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&layout=compact&theme=dark&hide=TeX&lang_count=4)](https://github.com/Meiscool125/github-readme-stats)
 

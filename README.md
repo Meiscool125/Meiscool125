@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Dathan</h1>
+<h1 align="center">Hi 👋, I'm Dathan</h1>
 <h3 align="center">A full stack developer from the U.S.A who makes fun projects and games</h3>
 
 - 🌱 I’m currently learning **Typescript**

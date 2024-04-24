@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Meiscool125?tab=repositories)
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **dathan.kenworthy@gmail.com**
+- 💬 Ask me about **Bee Swarm Simulator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

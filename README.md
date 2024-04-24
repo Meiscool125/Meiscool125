@@ -3,9 +3,9 @@
 
 - <h3>🌱 I’m currently learning Typescript</h3>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Meiscool125?tab=repositories)
+- <h3>👨‍💻 All of my projects are available [here](https://github.com/Meiscool125?tab=repositories)</h3>
 
-- 💬 Ask me about **Bee Swarm Simulator**
+- <h3>💬 Ask me about Bee Swarm Simulator</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

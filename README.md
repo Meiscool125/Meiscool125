@@ -7,7 +7,7 @@
 
 - <h3>💬 Ask me about Bee Swarm Simulator</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
@@ -16,7 +16,7 @@
 </p>
 
 
-### My Stats:
+### 🔥My Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark" alt="meiscool125" /></p>
 

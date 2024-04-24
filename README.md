@@ -16,3 +16,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark" alt="meiscool125" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meiscool125&layout=compact&theme=vision-friendly-dark)](https://github.com/meiscool125/github-readme-stats)

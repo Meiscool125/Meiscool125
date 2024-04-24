@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Meiscool125?tab=repositories](https://github.com/Meiscool125?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Meiscool125?tab=repositories)
 
 - 💬 Ask me about **Python**
 

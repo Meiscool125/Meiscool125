@@ -3,7 +3,7 @@
 
 - <h3>🌱 I’m currently learning Typescript</h3>
 
-- <h3>👨‍💻 All of my projects are available [here](https://github.com/Meiscool125?tab=repositories)</h3>
+- <h3>👨‍💻 All of my projects are available <a href="https://github.com/Meiscool125?tab=repositories" target="_blank">here</a></h3>
 
 - <h3>💬 Ask me about Bee Swarm Simulator</h3>
 

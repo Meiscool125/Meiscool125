@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXE4MHhvb3hneGMzbzg2eTZjc3BteWh0ZHdoOG9vdDd6Zjhvc2E1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
-</div>
 <h1 align="center">Hi 👋, I'm Dathan</h1>
 <h2 align="center">A full stack developer from the U.S.A who makes fun projects and games</h2>
 

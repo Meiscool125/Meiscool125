@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark&hide=issues,prs" alt="meiscool125" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&layout=compact&theme=dark&hide=TeX&langs_count=8)](https://github.com/Meiscool125/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&layout=compact&theme=dark&hide=TeX&langs_count=1)](https://github.com/Meiscool125/github-readme-stats)
 

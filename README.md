@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Dathan</h1>
 <h2 align="center">A full stack developer from the U.S.A who makes fun projects and games</h2>
 

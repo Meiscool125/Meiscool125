@@ -2,9 +2,9 @@
 <h2 align="center">A full stack developer from the U.S.A who makes fun projects and games</h2>
 
 - <h3>🌱 I’m currently learning 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
            and 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
           </h3>
 
 - <h3>👨‍💻 All of my projects are available <a href="https://github.com/Meiscool125?tab=repositories" target="_blank">here</a></h3>

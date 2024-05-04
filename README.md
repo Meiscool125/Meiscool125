@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dathan</h1>
 <h2 align="center">A full stack developer from the U.S.A who makes fun projects and games</h2>
 
-- <h3>🌱 I’m currently learning Typescript</h3>
+- <h3>🌱 I’m currently learning Typescript and JavaScript</h3>
 
 - <h3>👨‍💻 All of my projects are available <a href="https://github.com/Meiscool125?tab=repositories" target="_blank">here</a></h3>
 

@@ -3,8 +3,8 @@
 
 - <h3>🌱 I’m currently learning 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-           and 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+            and  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
           </h3>
 
 - <h3>👨‍💻 All of my projects are available <a href="https://github.com/Meiscool125?tab=repositories" target="_blank">here</a></h3>

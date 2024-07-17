@@ -27,6 +27,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiscool125&show_icons=true&locale=en&theme=dark&hide=issues,prs" alt="meiscool125" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meiscool125&theme=dark&hide=TeX&langs_count=3)](https://github.com/Meiscool125/github-readme-stats)
 

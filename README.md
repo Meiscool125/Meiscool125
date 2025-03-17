@@ -6,7 +6,6 @@
 
 - <h3>👨‍💻 All of my projects are available <a href="https://github.com/Meiscool125?tab=repositories" target="_blank">here</a></h3>
 
-- <h3>💬 Ask me about Blue Lock</h3>
 
 <br>
 
